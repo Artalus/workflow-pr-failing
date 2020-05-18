@@ -12,3 +12,4 @@ jobs:
         env:
           FOO: A
           BAR: B
+          FOO: C
